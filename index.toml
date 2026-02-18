@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/Packwiz.yml"
+hash = "7e2f9852ebaec0c6afc3e8fa6f816f7714282c14c6fee1f78f7811477f069a47"
+
+[[files]]
+file = "LICENSE"
+hash = "e0831bf3d079d127c9a36d5e2dd1cb84c13c1c26cbd6f8bb3518ce475c81159e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "971916846fa6d86fe9986c6f34370b62de5aa9c219e709011851397af8fd6fb5"
 metafile = true
@@ -81,9 +89,8 @@ hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
-file = "mods/casualcosmetics.pw.toml"
-hash = "ba0c711e12e80041c55330571273b5f3e9737c986972784881c3c689e4959c74"
-metafile = true
+file = "mods/casualcosmetics-1.0.2.jar"
+hash = "f6c19cb7cfa26453ba2f799ec6fb9afb398f0fc4537f7561f5749f45c24c839f"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
