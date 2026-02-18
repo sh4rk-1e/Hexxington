@@ -1,0 +1,13 @@
+name = "Consulars' Origins"
+filename = "consularsorigins-1.10.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FsTSqAf0/versions/wVoSyvJK/consularsorigins-1.10.1.jar"
+hash-format = "sha512"
+hash = "780121dc9f7e2b95883522264a71f3df1fa6a21062cd8080784aa54259cc67aa757b68bb78957a6139d5ba5337d29c693da0086c723bcf020da514a3ac22d922"
+
+[update]
+[update.modrinth]
+mod-id = "FsTSqAf0"
+version = "wVoSyvJK"

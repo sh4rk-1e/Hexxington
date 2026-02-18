@@ -1,0 +1,13 @@
+name = "Omnidirectional Movement"
+filename = "omni-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FK8ma0OQ/versions/dW7l6DtQ/omni-1.0.jar"
+hash-format = "sha512"
+hash = "61dc16ec7615ed82e37b76ff9e7e48e59836b8faf2a037be479e9ec8879373a5a257aa35dd8a44ba22b72105b49b8cf5ad9f7343a9039676af4bbd93bc8ed656"
+
+[update]
+[update.modrinth]
+mod-id = "FK8ma0OQ"
+version = "dW7l6DtQ"

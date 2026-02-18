@@ -1,0 +1,13 @@
+name = "[Let's Do] API"
+filename = "letsdo-API-fabric-1.2.14-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/UXpmGhse/letsdo-API-fabric-1.2.14-fabric.jar"
+hash-format = "sha512"
+hash = "12ba0eace23ddc2512ee35e5eaeab9b1fddd04589740542c72d4c65114fffc400bbcaad3fa3f990730b6e7c4ff31a8e2f6e37966c22bdc84e9c1355912c2d8c4"
+
+[update]
+[update.modrinth]
+mod-id = "4XJZeZbM"
+version = "UXpmGhse"

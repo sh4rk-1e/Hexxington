@@ -1,0 +1,13 @@
+name = "Hexxington"
+author = "WhyVex"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ea8ece2c55b568e65c65f1d7d37a337dc20d421e0634b61f91dcb8eb33e5903e"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"
