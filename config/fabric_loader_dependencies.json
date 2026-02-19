@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "overrides": {
+        "hexdebug": {
+            "depends": {
+                "hexical": "2.0.0-e0d7ef9"
+            }
+        },
+    }
+}

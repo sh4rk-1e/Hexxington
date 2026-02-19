@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "e0831bf3d079d127c9a36d5e2dd1cb84c13c1c26cbd6f8bb3518ce475c81159e"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "afc9a9903df52608b3f1ab7fa9f91f9d201bb7642766abe2fcbb45c34b814c74"
+
+[[files]]
 file = "fast"
 hash = "45a88e37649a489af26a20b221abe1aa016f16970c10d7ceb10e91974277d610"
 
