@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "e0831bf3d079d127c9a36d5e2dd1cb84c13c1c26cbd6f8bb3518ce475c81159e"
 
 [[files]]
+file = "fast"
+hash = "45a88e37649a489af26a20b221abe1aa016f16970c10d7ceb10e91974277d610"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "971916846fa6d86fe9986c6f34370b62de5aa9c219e709011851397af8fd6fb5"
 metafile = true
@@ -304,9 +308,8 @@ hash = "b48832001c692143d8140577323ec8033bfe868c44d79daa27cdd8a64913cf40"
 metafile = true
 
 [[files]]
-file = "mods/hexical.pw.toml"
-hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
-metafile = true
+file = "mods/hexical-2.0.0-e0d7ef9.jar"
+hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
 file = "mods/hexpats.pw.toml"
