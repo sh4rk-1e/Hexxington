@@ -6,7 +6,7 @@ hash = "e0831bf3d079d127c9a36d5e2dd1cb84c13c1c26cbd6f8bb3518ce475c81159e"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "afc9a9903df52608b3f1ab7fa9f91f9d201bb7642766abe2fcbb45c34b814c74"
+hash = "7a31cf787e777d386e761930fbb4832c286837dda6315970aa02fe39aa6775ed"
 
 [[files]]
 file = "fast"
