@@ -412,11 +412,6 @@ hash = "f3f8fd71302e5303bd119379923fe88716cb182a781871bb9db1c25fb58ef6f8"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-camping.pw.toml"
-hash = "036f6fe07477f6411ad855bf137ff8625fea6eca23ed4026d2c0fdb121d5b1d0"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-emi-compat.pw.toml"
 hash = "81445c534ed0054a7f787b4cae2802a7bacbadf337298e2a89a30e86ed4e6fb8"
 metafile = true
@@ -435,6 +430,10 @@ metafile = true
 file = "mods/lets-do-wildernature.pw.toml"
 hash = "c0fa611e6145c44263b04c5d0a308c6734eea192797beda2697880992a04967e"
 metafile = true
+
+[[files]]
+file = "mods/letsdo-camping-fabric-1.0.4.jar"
+hash = "4f471ba546b7dc89800095115a643da642016f4fe9af60ac692670bf9800c11e"
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
