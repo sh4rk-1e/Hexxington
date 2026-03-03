@@ -707,9 +707,8 @@ hash = "a343e4dc55c01ae308ba84ba742e9acac817bd8b1b848e86b8c8a2cbfbdb3f27"
 metafile = true
 
 [[files]]
-file = "mods/waystones.pw.toml"
-hash = "7cd814db4d5e755d2923b3a4212fe1468468624d102b239a70eafdbe8e0eda98"
-metafile = true
+file = "mods/waystones-fabric-1.20.1-14.1.18.jar"
+hash = "118c0df6655ef401993e3b807c1ebc8276ceab2ac1d878727d9c7b8e2d14caa9"
 
 [[files]]
 file = "mods/whisperwoods.pw.toml"
