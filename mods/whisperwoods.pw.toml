@@ -1,0 +1,13 @@
+name = "Whisperwoods"
+filename = "whisperwoods-1.20.1-2.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MQyX33RX/versions/fpdn7RsX/whisperwoods-1.20.1-2.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "97a3a834ae37d0b91bf3cd80450462245933006cbba3fa0c54136f4fdb8a23ac6bed8977a50f190a4db5e7e31bc1450645319935df8f5cf6591bea6929ba5531"
+
+[update]
+[update.modrinth]
+mod-id = "MQyX33RX"
+version = "fpdn7RsX"
